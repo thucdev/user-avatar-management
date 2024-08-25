@@ -1,0 +1,1 @@
+export const REDIS_PROVIDE = 'REDIS_SERVICE_TOKEN';
